@@ -62,4 +62,5 @@ typings/
 
 # project files
 *sublime*
+*-workspace
 */package-lock.json
